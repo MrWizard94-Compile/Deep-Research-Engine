@@ -1,0 +1,32 @@
+[
+  {
+    "generation": 1,
+    "objective": "Design a stable, scalable computational architecture that addresses power draw, scaling memory limits, and expanding context windows.",
+    "solution_file": "solutions\\gen1_20260630-114539_exp.py",
+    "timestamp": "2026-06-30T11:45:39"
+  },
+  {
+    "generation": 2,
+    "objective": "Design a memory-efficient sparse data structure supporting sub-linear nearest-neighbour queries over high-dimensional vectors.",
+    "solution_file": "solutions\\gen2_20260630-123510_exp.py",
+    "timestamp": "2026-06-30T12:35:10"
+  },
+  {
+    "generation": 3,
+    "objective": "Design a deterministic scheduler that maximizes throughput on heterogeneous CPU/GPU hardware under a fixed power budget.",
+    "solution_file": "solutions\\gen3_20260630-151139_exp.py",
+    "timestamp": "2026-06-30T15:11:39"
+  },
+  {
+    "generation": 5,
+    "objective": "Design a cache-replacement policy that provably beats LRU on adversarial access patterns without unbounded metadata.",
+    "solution_file": "solutions\\gen5_20260701-031246_exp.py",
+    "timestamp": "2026-07-01T03:12:46"
+  },
+  {
+    "generation": 6,
+    "objective": "Design a lock-free concurrent queue that sustains linear throughput scaling to 64 producers without starvation.",
+    "solution_file": "solutions\\gen6_20260701-045451_main.cpp",
+    "timestamp": "2026-07-01T04:54:51"
+  }
+]

@@ -1,0 +1,12 @@
+# Generated Python state, local editor state, and runtime workspace.
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.vscode/
+run.log
+workspace/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
